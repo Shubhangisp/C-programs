@@ -1,3 +1,4 @@
+//Check the number is Armstrong number or not
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
