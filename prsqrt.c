@@ -1,4 +1,4 @@
-
+//Check number is prime or not and if it is prime then calculate its squareroot
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
